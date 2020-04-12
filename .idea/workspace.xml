@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11058d7b-67be-4b40-a6cf-9a0a23a3109b" name="Default Changelist" comment="" />
+    <list default="true" id="11058d7b-67be-4b40-a6cf-9a0a23a3109b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Junior Jaba Voicebot Developer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Junior Java Voicebot Developer.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +18,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aPEDWEl59J3xL0IbpG69T6ex4a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -37,7 +47,7 @@
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Main" />
-      <module name="Junior Jaba Voicebot Developer" />
+      <module name="Junior Java Voicebot Developer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.*" />
@@ -50,10 +60,57 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Junior Jaba Voicebot Developer" />
+      <module name="Junior Java Voicebot Developer" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Junior Java Voicebot Developer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Junior Java Voicebot Developer" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,6 +135,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="1271" key="#Inspections" timestamp="1586707768997">
       <screen x="0" y="1200" width="1536" height="832" />
@@ -95,21 +155,25 @@
       <screen x="0" y="1200" width="1536" height="832" />
     </state>
     <state x="549" y="1371" key="FileChooserDialogImpl/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586709084383" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1586717716272">
-      <screen x="0" y="1200" width="1536" height="832" />
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom" timestamp="1586719167282">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom/0.1200.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1586719167282" />
     <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586717716272" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1586717716271">
-      <screen x="0" y="1200" width="1536" height="832" />
+    <state width="1877" height="263" key="GridCell.Tab.0.center" timestamp="1586719167281">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="263" key="GridCell.Tab.0.center/0.1200.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1586719167281" />
     <state width="1493" height="171" key="GridCell.Tab.0.center/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586717716271" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1586717716271">
-      <screen x="0" y="1200" width="1536" height="832" />
+    <state width="1877" height="263" key="GridCell.Tab.0.left" timestamp="1586719167281">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="263" key="GridCell.Tab.0.left/0.1200.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1586719167281" />
     <state width="1493" height="171" key="GridCell.Tab.0.left/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586717716271" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1586717716271">
-      <screen x="0" y="1200" width="1536" height="832" />
+    <state width="1877" height="263" key="GridCell.Tab.0.right" timestamp="1586719167281">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="263" key="GridCell.Tab.0.right/0.1200.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1586719167281" />
     <state width="1493" height="171" key="GridCell.Tab.0.right/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586717716271" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586710702775">
       <screen x="0" y="1200" width="1536" height="832" />
@@ -135,10 +199,10 @@
       <screen x="0" y="1200" width="1536" height="832" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586628773757" />
-    <state x="581" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1586717863715">
+    <state x="581" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1586719083778">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="581" y="329" key="com.intellij.ide.util.TipDialog/0.1200.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1586717863715" />
+    <state x="581" y="329" key="com.intellij.ide.util.TipDialog/0.1200.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1586719083778" />
     <state x="465" y="1436" key="com.intellij.ide.util.TipDialog/0.1200.1536.832/0.0.1920.1160@0.1200.1536.832" timestamp="1586716784366" />
     <state x="499" y="1368" key="extract.method.dialog" timestamp="1586645390227">
       <screen x="0" y="1200" width="1536" height="832" />
